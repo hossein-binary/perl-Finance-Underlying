@@ -2845,2563 +2845,2563 @@ frxXPTUSD:
   quoted_currency: USD
   submarket: metals
   symbol: frxXPTUSD
-cryBCHAED:
+frxBCHAED:
   asset: BCH
   display_name: BCH/AED
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: AED
-  submarket: non_stable_coin
-  symbol: cryBCHAED
-cryBCHAUD:
+  submarket: minor_pairs
+  symbol: frxBCHAED
+frxBCHAUD:
   asset: BCH
   display_name: BCH/AUD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: AUD
-  submarket: non_stable_coin
-  symbol: cryBCHAUD
-cryBCHBRL:
+  submarket: minor_pairs
+  symbol: frxBCHAUD
+frxBCHBRL:
   asset: BCH
   display_name: BCH/BRL
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: BRL
-  submarket: non_stable_coin
-  symbol: cryBCHBRL
-cryBCHCAD:
+  submarket: minor_pairs
+  symbol: frxBCHBRL
+frxBCHCAD:
   asset: BCH
   display_name: BCH/CAD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: CAD
-  submarket: non_stable_coin
-  symbol: cryBCHCAD
-cryBCHCHF:
+  submarket: minor_pairs
+  symbol: frxBCHCAD
+frxBCHCHF:
   asset: BCH
   display_name: BCH/CHF
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: CHF
-  submarket: non_stable_coin
-  symbol: cryBCHCHF
-cryBCHCNY:
+  submarket: minor_pairs
+  symbol: frxBCHCHF
+frxBCHCNY:
   asset: BCH
   display_name: BCH/CNY
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: CNY
-  submarket: non_stable_coin
-  symbol: cryBCHCNY
-cryBCHCZK:
+  submarket: minor_pairs
+  symbol: frxBCHCNY
+frxBCHCZK:
   asset: BCH
   display_name: BCH/CZK
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: CZK
-  submarket: non_stable_coin
-  symbol: cryBCHCZK
-cryBCHEGP:
+  submarket: minor_pairs
+  symbol: frxBCHCZK
+frxBCHEGP:
   asset: BCH
   display_name: BCH/EGP
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: EGP
-  submarket: non_stable_coin
-  symbol: cryBCHEGP
-cryBCHEUR:
+  submarket: minor_pairs
+  symbol: frxBCHEGP
+frxBCHEUR:
   asset: BCH
   display_name: BCH/EUR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: EUR
-  submarket: non_stable_coin
-  symbol: cryBCHEUR
-cryBCHGBP:
+  submarket: minor_pairs
+  symbol: frxBCHEUR
+frxBCHGBP:
   asset: BCH
   display_name: BCH/GBP
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: GBP
-  submarket: non_stable_coin
-  symbol: cryBCHGBP
-cryBCHHKD:
+  submarket: minor_pairs
+  symbol: frxBCHGBP
+frxBCHHKD:
   asset: BCH
   display_name: BCH/HKD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: HKD
-  submarket: non_stable_coin
-  symbol: cryBCHHKD
-cryBCHIDR:
+  submarket: minor_pairs
+  symbol: frxBCHHKD
+frxBCHIDR:
   asset: BCH
   display_name: BCH/IDR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: IDR
-  submarket: non_stable_coin
-  symbol: cryBCHIDR
-cryBCHINR:
+  submarket: minor_pairs
+  symbol: frxBCHIDR
+frxBCHINR:
   asset: BCH
   display_name: BCH/INR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: INR
-  submarket: non_stable_coin
-  symbol: cryBCHINR
-cryBCHJPY:
+  submarket: minor_pairs
+  symbol: frxBCHINR
+frxBCHJPY:
   asset: BCH
   display_name: BCH/JPY
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: JPY
-  submarket: non_stable_coin
-  symbol: cryBCHJPY
-cryBCHKRW:
+  submarket: minor_pairs
+  symbol: frxBCHJPY
+frxBCHKRW:
   asset: BCH
   display_name: BCH/KRW
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: KRW
-  submarket: non_stable_coin
-  symbol: cryBCHKRW
-cryBCHKWD:
+  submarket: minor_pairs
+  symbol: frxBCHKRW
+frxBCHKWD:
   asset: BCH
   display_name: BCH/KWD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: KWD
-  submarket: non_stable_coin
-  symbol: cryBCHKWD
-cryBCHMXN:
+  submarket: minor_pairs
+  symbol: frxBCHKWD
+frxBCHMXN:
   asset: BCH
   display_name: BCH/MXN
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: MXN
-  submarket: non_stable_coin
-  symbol: cryBCHMXN
-cryBCHNOK:
+  submarket: minor_pairs
+  symbol: frxBCHMXN
+frxBCHNOK:
   asset: BCH
   display_name: BCH/NOK
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: NOK
-  submarket: non_stable_coin
-  symbol: cryBCHNOK
-cryBCHNZD:
+  submarket: minor_pairs
+  symbol: frxBCHNOK
+frxBCHNZD:
   asset: BCH
   display_name: BCH/NZD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: NZD
-  submarket: non_stable_coin
-  symbol: cryBCHNZD
-cryBCHPLN:
+  submarket: minor_pairs
+  symbol: frxBCHNZD
+frxBCHPLN:
   asset: BCH
   display_name: BCH/PLN
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: PLN
-  submarket: non_stable_coin
-  symbol: cryBCHPLN
-cryBCHRUB:
+  submarket: minor_pairs
+  symbol: frxBCHPLN
+frxBCHRUB:
   asset: BCH
   display_name: BCH/RUB
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: RUB
-  submarket: non_stable_coin
-  symbol: cryBCHRUB
-cryBCHSAR:
+  submarket: minor_pairs
+  symbol: frxBCHRUB
+frxBCHSAR:
   asset: BCH
   display_name: BCH/SAR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: SAR
-  submarket: non_stable_coin
-  symbol: cryBCHSAR
-cryBCHSEK:
+  submarket: minor_pairs
+  symbol: frxBCHSAR
+frxBCHSEK:
   asset: BCH
   display_name: BCH/SEK
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: SEK
-  submarket: non_stable_coin
-  symbol: cryBCHSEK
-cryBCHSGD:
+  submarket: minor_pairs
+  symbol: frxBCHSEK
+frxBCHSGD:
   asset: BCH
   display_name: BCH/SGD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: SGD
-  submarket: non_stable_coin
-  symbol: cryBCHSGD
-cryBCHTRY:
+  submarket: minor_pairs
+  symbol: frxBCHSGD
+frxBCHTRY:
   asset: BCH
   display_name: BCH/TRY
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: TRY
-  submarket: non_stable_coin
-  symbol: cryBCHTRY
-cryBCHUSD:
+  submarket: minor_pairs
+  symbol: frxBCHTRY
+frxBCHUSD:
   asset: BCH
   display_name: BCH/USD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: USD
-  submarket: non_stable_coin
-  symbol: cryBCHUSD
-cryBCHXAG:
+  submarket: minor_pairs
+  symbol: frxBCHUSD
+frxBCHXAG:
   asset: BCH
   display_name: BCH/XAG
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: XAG
-  submarket: non_stable_coin
-  symbol: cryBCHXAG
-cryBCHXAU:
+  submarket: minor_pairs
+  symbol: frxBCHXAG
+frxBCHXAU:
   asset: BCH
   display_name: BCH/XAU
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: XAU
-  submarket: non_stable_coin
-  symbol: cryBCHXAU
-cryBCHZAR:
+  submarket: minor_pairs
+  symbol: frxBCHXAU
+frxBCHZAR:
   asset: BCH
   display_name: BCH/ZAR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: ZAR
-  submarket: non_stable_coin
-  symbol: cryBCHZAR
-cryBTCAED:
+  submarket: minor_pairs
+  symbol: frxBCHZAR
+frxBTCAED:
   asset: BTC
   display_name: BTC/AED
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: AED
-  submarket: non_stable_coin
-  symbol: cryBTCAED
-cryBTCAUD:
+  submarket: minor_pairs
+  symbol: frxBTCAED
+frxBTCAUD:
   asset: BTC
   display_name: BTC/AUD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: AUD
-  submarket: non_stable_coin
-  symbol: cryBTCAUD
-cryBTCBRL:
+  submarket: minor_pairs
+  symbol: frxBTCAUD
+frxBTCBRL:
   asset: BTC
   display_name: BTC/BRL
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: BRL
-  submarket: non_stable_coin
-  symbol: cryBTCBRL
-cryBTCCAD:
+  submarket: minor_pairs
+  symbol: frxBTCBRL
+frxBTCCAD:
   asset: BTC
   display_name: BTC/CAD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: CAD
-  submarket: non_stable_coin
-  symbol: cryBTCCAD
-cryBTCCHF:
+  submarket: minor_pairs
+  symbol: frxBTCCAD
+frxBTCCHF:
   asset: BTC
   display_name: BTC/CHF
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: CHF
-  submarket: non_stable_coin
-  symbol: cryBTCCHF
-cryBTCCNY:
+  submarket: minor_pairs
+  symbol: frxBTCCHF
+frxBTCCNY:
   asset: BTC
   display_name: BTC/CNY
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: CNY
-  submarket: non_stable_coin
-  symbol: cryBTCCNY
-cryBTCCZK:
+  submarket: minor_pairs
+  symbol: frxBTCCNY
+frxBTCCZK:
   asset: BTC
   display_name: BTC/CZK
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: CZK
-  submarket: non_stable_coin
-  symbol: cryBTCCZK
-cryBTCEGP:
+  submarket: minor_pairs
+  symbol: frxBTCCZK
+frxBTCEGP:
   asset: BTC
   display_name: BTC/EGP
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: EGP
-  submarket: non_stable_coin
-  symbol: cryBTCEGP
-cryBTCEUR:
+  submarket: minor_pairs
+  symbol: frxBTCEGP
+frxBTCEUR:
   asset: BTC
   display_name: BTC/EUR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: EUR
-  submarket: non_stable_coin
-  symbol: cryBTCEUR
-cryBTCGBP:
+  submarket: minor_pairs
+  symbol: frxBTCEUR
+frxBTCGBP:
   asset: BTC
   display_name: BTC/GBP
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: GBP
-  submarket: non_stable_coin
-  symbol: cryBTCGBP
-cryBTCHKD:
+  submarket: minor_pairs
+  symbol: frxBTCGBP
+frxBTCHKD:
   asset: BTC
   display_name: BTC/HKD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: HKD
-  submarket: non_stable_coin
-  symbol: cryBTCHKD
-cryBTCIDR:
+  submarket: minor_pairs
+  symbol: frxBTCHKD
+frxBTCIDR:
   asset: BTC
   display_name: BTC/IDR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: IDR
-  submarket: non_stable_coin
-  symbol: cryBTCIDR
-cryBTCINR:
+  submarket: minor_pairs
+  symbol: frxBTCIDR
+frxBTCINR:
   asset: BTC
   display_name: BTC/INR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: INR
-  submarket: non_stable_coin
-  symbol: cryBTCINR
-cryBTCJPY:
+  submarket: minor_pairs
+  symbol: frxBTCINR
+frxBTCJPY:
   asset: BTC
   display_name: BTC/JPY
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: JPY
-  submarket: non_stable_coin
-  symbol: cryBTCJPY
-cryBTCKRW:
+  submarket: minor_pairs
+  symbol: frxBTCJPY
+frxBTCKRW:
   asset: BTC
   display_name: BTC/KRW
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: KRW
-  submarket: non_stable_coin
-  symbol: cryBTCKRW
-cryBTCKWD:
+  submarket: minor_pairs
+  symbol: frxBTCKRW
+frxBTCKWD:
   asset: BTC
   display_name: BTC/KWD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: KWD
-  submarket: non_stable_coin
-  symbol: cryBTCKWD
-cryBTCMXN:
+  submarket: minor_pairs
+  symbol: frxBTCKWD
+frxBTCMXN:
   asset: BTC
   display_name: BTC/MXN
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: MXN
-  submarket: non_stable_coin
-  symbol: cryBTCMXN
-cryBTCNOK:
+  submarket: minor_pairs
+  symbol: frxBTCMXN
+frxBTCNOK:
   asset: BTC
   display_name: BTC/NOK
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: NOK
-  submarket: non_stable_coin
-  symbol: cryBTCNOK
-cryBTCNZD:
+  submarket: minor_pairs
+  symbol: frxBTCNOK
+frxBTCNZD:
   asset: BTC
   display_name: BTC/NZD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: NZD
-  submarket: non_stable_coin
-  symbol: cryBTCNZD
-cryBTCPLN:
+  submarket: minor_pairs
+  symbol: frxBTCNZD
+frxBTCPLN:
   asset: BTC
   display_name: BTC/PLN
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: PLN
-  submarket: non_stable_coin
-  symbol: cryBTCPLN
-cryBTCRUB:
+  submarket: minor_pairs
+  symbol: frxBTCPLN
+frxBTCRUB:
   asset: BTC
   display_name: BTC/RUB
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: RUB
-  submarket: non_stable_coin
-  symbol: cryBTCRUB
-cryBTCSAR:
+  submarket: minor_pairs
+  symbol: frxBTCRUB
+frxBTCSAR:
   asset: BTC
   display_name: BTC/SAR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: SAR
-  submarket: non_stable_coin
-  symbol: cryBTCSAR
-cryBTCSEK:
+  submarket: minor_pairs
+  symbol: frxBTCSAR
+frxBTCSEK:
   asset: BTC
   display_name: BTC/SEK
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: SEK
-  submarket: non_stable_coin
-  symbol: cryBTCSEK
-cryBTCSGD:
+  submarket: minor_pairs
+  symbol: frxBTCSEK
+frxBTCSGD:
   asset: BTC
   display_name: BTC/SGD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: SGD
-  submarket: non_stable_coin
-  symbol: cryBTCSGD
-cryBTCTRY:
+  submarket: minor_pairs
+  symbol: frxBTCSGD
+frxBTCTRY:
   asset: BTC
   display_name: BTC/TRY
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: TRY
-  submarket: non_stable_coin
-  symbol: cryBTCTRY
-cryBTCUSD:
+  submarket: minor_pairs
+  symbol: frxBTCTRY
+frxBTCUSD:
   asset: BTC
   display_name: BTC/USD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: USD
-  submarket: non_stable_coin
-  symbol: cryBTCUSD
-cryBTCXAG:
+  submarket: minor_pairs
+  symbol: frxBTCUSD
+frxBTCXAG:
   asset: BTC
   display_name: BTC/XAG
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: XAG
-  submarket: non_stable_coin
-  symbol: cryBTCXAG
-cryBTCXAU:
+  submarket: minor_pairs
+  symbol: frxBTCXAG
+frxBTCXAU:
   asset: BTC
   display_name: BTC/XAU
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: XAU
-  submarket: non_stable_coin
-  symbol: cryBTCXAU
-cryBTCZAR:
+  submarket: minor_pairs
+  symbol: frxBTCXAU
+frxBTCZAR:
   asset: BTC
   display_name: BTC/ZAR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: ZAR
-  submarket: non_stable_coin
-  symbol: cryBTCZAR
-cryETCAED:
+  submarket: minor_pairs
+  symbol: frxBTCZAR
+frxETCAED:
   asset: ETC
   display_name: ETC/AED
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: AED
-  submarket: non_stable_coin
-  symbol: cryETCAED
-cryETCAUD:
+  submarket: minor_pairs
+  symbol: frxETCAED
+frxETCAUD:
   asset: ETC
   display_name: ETC/AUD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: AUD
-  submarket: non_stable_coin
-  symbol: cryETCAUD
-cryETCBRL:
+  submarket: minor_pairs
+  symbol: frxETCAUD
+frxETCBRL:
   asset: ETC
   display_name: ETC/BRL
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: BRL
-  submarket: non_stable_coin
-  symbol: cryETCBRL
-cryETCCAD:
+  submarket: minor_pairs
+  symbol: frxETCBRL
+frxETCCAD:
   asset: ETC
   display_name: ETC/CAD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: CAD
-  submarket: non_stable_coin
-  symbol: cryETCCAD
-cryETCCHF:
+  submarket: minor_pairs
+  symbol: frxETCCAD
+frxETCCHF:
   asset: ETC
   display_name: ETC/CHF
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: CHF
-  submarket: non_stable_coin
-  symbol: cryETCCHF
-cryETCCNY:
+  submarket: minor_pairs
+  symbol: frxETCCHF
+frxETCCNY:
   asset: ETC
   display_name: ETC/CNY
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: CNY
-  submarket: non_stable_coin
-  symbol: cryETCCNY
-cryETCCZK:
+  submarket: minor_pairs
+  symbol: frxETCCNY
+frxETCCZK:
   asset: ETC
   display_name: ETC/CZK
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: CZK
-  submarket: non_stable_coin
-  symbol: cryETCCZK
-cryETCEGP:
+  submarket: minor_pairs
+  symbol: frxETCCZK
+frxETCEGP:
   asset: ETC
   display_name: ETC/EGP
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: EGP
-  submarket: non_stable_coin
-  symbol: cryETCEGP
-cryETCEUR:
+  submarket: minor_pairs
+  symbol: frxETCEGP
+frxETCEUR:
   asset: ETC
   display_name: ETC/EUR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: EUR
-  submarket: non_stable_coin
-  symbol: cryETCEUR
-cryETCGBP:
+  submarket: minor_pairs
+  symbol: frxETCEUR
+frxETCGBP:
   asset: ETC
   display_name: ETC/GBP
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: GBP
-  submarket: non_stable_coin
-  symbol: cryETCGBP
-cryETCHKD:
+  submarket: minor_pairs
+  symbol: frxETCGBP
+frxETCHKD:
   asset: ETC
   display_name: ETC/HKD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: HKD
-  submarket: non_stable_coin
-  symbol: cryETCHKD
-cryETCIDR:
+  submarket: minor_pairs
+  symbol: frxETCHKD
+frxETCIDR:
   asset: ETC
   display_name: ETC/IDR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: IDR
-  submarket: non_stable_coin
-  symbol: cryETCIDR
-cryETCINR:
+  submarket: minor_pairs
+  symbol: frxETCIDR
+frxETCINR:
   asset: ETC
   display_name: ETC/INR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: INR
-  submarket: non_stable_coin
-  symbol: cryETCINR
-cryETCJPY:
+  submarket: minor_pairs
+  symbol: frxETCINR
+frxETCJPY:
   asset: ETC
   display_name: ETC/JPY
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: JPY
-  submarket: non_stable_coin
-  symbol: cryETCJPY
-cryETCKRW:
+  submarket: minor_pairs
+  symbol: frxETCJPY
+frxETCKRW:
   asset: ETC
   display_name: ETC/KRW
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: KRW
-  submarket: non_stable_coin
-  symbol: cryETCKRW
-cryETCKWD:
+  submarket: minor_pairs
+  symbol: frxETCKRW
+frxETCKWD:
   asset: ETC
   display_name: ETC/KWD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: KWD
-  submarket: non_stable_coin
-  symbol: cryETCKWD
-cryETCMXN:
+  submarket: minor_pairs
+  symbol: frxETCKWD
+frxETCMXN:
   asset: ETC
   display_name: ETC/MXN
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: MXN
-  submarket: non_stable_coin
-  symbol: cryETCMXN
-cryETCNOK:
+  submarket: minor_pairs
+  symbol: frxETCMXN
+frxETCNOK:
   asset: ETC
   display_name: ETC/NOK
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: NOK
-  submarket: non_stable_coin
-  symbol: cryETCNOK
-cryETCNZD:
+  submarket: minor_pairs
+  symbol: frxETCNOK
+frxETCNZD:
   asset: ETC
   display_name: ETC/NZD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: NZD
-  submarket: non_stable_coin
-  symbol: cryETCNZD
-cryETCPLN:
+  submarket: minor_pairs
+  symbol: frxETCNZD
+frxETCPLN:
   asset: ETC
   display_name: ETC/PLN
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: PLN
-  submarket: non_stable_coin
-  symbol: cryETCPLN
-cryETCRUB:
+  submarket: minor_pairs
+  symbol: frxETCPLN
+frxETCRUB:
   asset: ETC
   display_name: ETC/RUB
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: RUB
-  submarket: non_stable_coin
-  symbol: cryETCRUB
-cryETCSAR:
+  submarket: minor_pairs
+  symbol: frxETCRUB
+frxETCSAR:
   asset: ETC
   display_name: ETC/SAR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: SAR
-  submarket: non_stable_coin
-  symbol: cryETCSAR
-cryETCSEK:
+  submarket: minor_pairs
+  symbol: frxETCSAR
+frxETCSEK:
   asset: ETC
   display_name: ETC/SEK
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: SEK
-  submarket: non_stable_coin
-  symbol: cryETCSEK
-cryETCSGD:
+  submarket: minor_pairs
+  symbol: frxETCSEK
+frxETCSGD:
   asset: ETC
   display_name: ETC/SGD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: SGD
-  submarket: non_stable_coin
-  symbol: cryETCSGD
-cryETCTRY:
+  submarket: minor_pairs
+  symbol: frxETCSGD
+frxETCTRY:
   asset: ETC
   display_name: ETC/TRY
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: TRY
-  submarket: non_stable_coin
-  symbol: cryETCTRY
-cryETCUSD:
+  submarket: minor_pairs
+  symbol: frxETCTRY
+frxETCUSD:
   asset: ETC
   display_name: ETC/USD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: USD
-  submarket: non_stable_coin
-  symbol: cryETCUSD
-cryETCXAG:
+  submarket: minor_pairs
+  symbol: frxETCUSD
+frxETCXAG:
   asset: ETC
   display_name: ETC/XAG
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: XAG
-  submarket: non_stable_coin
-  symbol: cryETCXAG
-cryETCXAU:
+  submarket: minor_pairs
+  symbol: frxETCXAG
+frxETCXAU:
   asset: ETC
   display_name: ETC/XAU
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: XAU
-  submarket: non_stable_coin
-  symbol: cryETCXAU
-cryETCZAR:
+  submarket: minor_pairs
+  symbol: frxETCXAU
+frxETCZAR:
   asset: ETC
   display_name: ETC/ZAR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: ZAR
-  submarket: non_stable_coin
-  symbol: cryETCZAR
-cryETHAED:
+  submarket: minor_pairs
+  symbol: frxETCZAR
+frxETHAED:
   asset: ETH
   display_name: ETH/AED
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: AED
-  submarket: non_stable_coin
-  symbol: cryETHAED
-cryETHAUD:
+  submarket: minor_pairs
+  symbol: frxETHAED
+frxETHAUD:
   asset: ETH
   display_name: ETH/AUD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: AUD
-  submarket: non_stable_coin
-  symbol: cryETHAUD
-cryETHBRL:
+  submarket: minor_pairs
+  symbol: frxETHAUD
+frxETHBRL:
   asset: ETH
   display_name: ETH/BRL
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: BRL
-  submarket: non_stable_coin
-  symbol: cryETHBRL
-cryETHCAD:
+  submarket: minor_pairs
+  symbol: frxETHBRL
+frxETHCAD:
   asset: ETH
   display_name: ETH/CAD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: CAD
-  submarket: non_stable_coin
-  symbol: cryETHCAD
-cryETHCHF:
+  submarket: minor_pairs
+  symbol: frxETHCAD
+frxETHCHF:
   asset: ETH
   display_name: ETH/CHF
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: CHF
-  submarket: non_stable_coin
-  symbol: cryETHCHF
-cryETHCNY:
+  submarket: minor_pairs
+  symbol: frxETHCHF
+frxETHCNY:
   asset: ETH
   display_name: ETH/CNY
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: CNY
-  submarket: non_stable_coin
-  symbol: cryETHCNY
-cryETHCZK:
+  submarket: minor_pairs
+  symbol: frxETHCNY
+frxETHCZK:
   asset: ETH
   display_name: ETH/CZK
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: CZK
-  submarket: non_stable_coin
-  symbol: cryETHCZK
-cryETHEGP:
+  submarket: minor_pairs
+  symbol: frxETHCZK
+frxETHEGP:
   asset: ETH
   display_name: ETH/EGP
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: EGP
-  submarket: non_stable_coin
-  symbol: cryETHEGP
-cryETHEUR:
+  submarket: minor_pairs
+  symbol: frxETHEGP
+frxETHEUR:
   asset: ETH
   display_name: ETH/EUR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: EUR
-  submarket: non_stable_coin
-  symbol: cryETHEUR
-cryETHGBP:
+  submarket: minor_pairs
+  symbol: frxETHEUR
+frxETHGBP:
   asset: ETH
   display_name: ETH/GBP
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: GBP
-  submarket: non_stable_coin
-  symbol: cryETHGBP
-cryETHHKD:
+  submarket: minor_pairs
+  symbol: frxETHGBP
+frxETHHKD:
   asset: ETH
   display_name: ETH/HKD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: HKD
-  submarket: non_stable_coin
-  symbol: cryETHHKD
-cryETHIDR:
+  submarket: minor_pairs
+  symbol: frxETHHKD
+frxETHIDR:
   asset: ETH
   display_name: ETH/IDR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: IDR
-  submarket: non_stable_coin
-  symbol: cryETHIDR
-cryETHINR:
+  submarket: minor_pairs
+  symbol: frxETHIDR
+frxETHINR:
   asset: ETH
   display_name: ETH/INR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: INR
-  submarket: non_stable_coin
-  symbol: cryETHINR
-cryETHJPY:
+  submarket: minor_pairs
+  symbol: frxETHINR
+frxETHJPY:
   asset: ETH
   display_name: ETH/JPY
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: JPY
-  submarket: non_stable_coin
-  symbol: cryETHJPY
-cryETHKRW:
+  submarket: minor_pairs
+  symbol: frxETHJPY
+frxETHKRW:
   asset: ETH
   display_name: ETH/KRW
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: KRW
-  submarket: non_stable_coin
-  symbol: cryETHKRW
-cryETHKWD:
+  submarket: minor_pairs
+  symbol: frxETHKRW
+frxETHKWD:
   asset: ETH
   display_name: ETH/KWD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: KWD
-  submarket: non_stable_coin
-  symbol: cryETHKWD
-cryETHMXN:
+  submarket: minor_pairs
+  symbol: frxETHKWD
+frxETHMXN:
   asset: ETH
   display_name: ETH/MXN
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: MXN
-  submarket: non_stable_coin
-  symbol: cryETHMXN
-cryETHNOK:
+  submarket: minor_pairs
+  symbol: frxETHMXN
+frxETHNOK:
   asset: ETH
   display_name: ETH/NOK
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: NOK
-  submarket: non_stable_coin
-  symbol: cryETHNOK
-cryETHNZD:
+  submarket: minor_pairs
+  symbol: frxETHNOK
+frxETHNZD:
   asset: ETH
   display_name: ETH/NZD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: NZD
-  submarket: non_stable_coin
-  symbol: cryETHNZD
-cryETHPLN:
+  submarket: minor_pairs
+  symbol: frxETHNZD
+frxETHPLN:
   asset: ETH
   display_name: ETH/PLN
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: PLN
-  submarket: non_stable_coin
-  symbol: cryETHPLN
-cryETHRUB:
+  submarket: minor_pairs
+  symbol: frxETHPLN
+frxETHRUB:
   asset: ETH
   display_name: ETH/RUB
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: RUB
-  submarket: non_stable_coin
-  symbol: cryETHRUB
-cryETHSAR:
+  submarket: minor_pairs
+  symbol: frxETHRUB
+frxETHSAR:
   asset: ETH
   display_name: ETH/SAR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: SAR
-  submarket: non_stable_coin
-  symbol: cryETHSAR
-cryETHSEK:
+  submarket: minor_pairs
+  symbol: frxETHSAR
+frxETHSEK:
   asset: ETH
   display_name: ETH/SEK
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: SEK
-  submarket: non_stable_coin
-  symbol: cryETHSEK
-cryETHSGD:
+  submarket: minor_pairs
+  symbol: frxETHSEK
+frxETHSGD:
   asset: ETH
   display_name: ETH/SGD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: SGD
-  submarket: non_stable_coin
-  symbol: cryETHSGD
-cryETHTRY:
+  submarket: minor_pairs
+  symbol: frxETHSGD
+frxETHTRY:
   asset: ETH
   display_name: ETH/TRY
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: TRY
-  submarket: non_stable_coin
-  symbol: cryETHTRY
-cryETHUSD:
+  submarket: minor_pairs
+  symbol: frxETHTRY
+frxETHUSD:
   asset: ETH
   display_name: ETH/USD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: USD
-  submarket: non_stable_coin
-  symbol: cryETHUSD
-cryETHXAG:
+  submarket: minor_pairs
+  symbol: frxETHUSD
+frxETHXAG:
   asset: ETH
   display_name: ETH/XAG
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: XAG
-  submarket: non_stable_coin
-  symbol: cryETHXAG
-cryETHXAU:
+  submarket: minor_pairs
+  symbol: frxETHXAG
+frxETHXAU:
   asset: ETH
   display_name: ETH/XAU
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: XAU
-  submarket: non_stable_coin
-  symbol: cryETHXAU
-cryETHZAR:
+  submarket: minor_pairs
+  symbol: frxETHXAU
+frxETHZAR:
   asset: ETH
   display_name: ETH/ZAR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: ZAR
-  submarket: non_stable_coin
-  symbol: cryETHZAR
-cryLTCAED:
+  submarket: minor_pairs
+  symbol: frxETHZAR
+frxLTCAED:
   asset: LTC
   display_name: LTC/AED
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: AED
-  submarket: non_stable_coin
-  symbol: cryLTCAED
-cryLTCAUD:
+  submarket: minor_pairs
+  symbol: frxLTCAED
+frxLTCAUD:
   asset: LTC
   display_name: LTC/AUD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: AUD
-  submarket: non_stable_coin
-  symbol: cryLTCAUD
-cryLTCBRL:
+  submarket: minor_pairs
+  symbol: frxLTCAUD
+frxLTCBRL:
   asset: LTC
   display_name: LTC/BRL
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: BRL
-  submarket: non_stable_coin
-  symbol: cryLTCBRL
-cryLTCCAD:
+  submarket: minor_pairs
+  symbol: frxLTCBRL
+frxLTCCAD:
   asset: LTC
   display_name: LTC/CAD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: CAD
-  submarket: non_stable_coin
-  symbol: cryLTCCAD
-cryLTCCHF:
+  submarket: minor_pairs
+  symbol: frxLTCCAD
+frxLTCCHF:
   asset: LTC
   display_name: LTC/CHF
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: CHF
-  submarket: non_stable_coin
-  symbol: cryLTCCHF
-cryLTCCNY:
+  submarket: minor_pairs
+  symbol: frxLTCCHF
+frxLTCCNY:
   asset: LTC
   display_name: LTC/CNY
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: CNY
-  submarket: non_stable_coin
-  symbol: cryLTCCNY
-cryLTCCZK:
+  submarket: minor_pairs
+  symbol: frxLTCCNY
+frxLTCCZK:
   asset: LTC
   display_name: LTC/CZK
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: CZK
-  submarket: non_stable_coin
-  symbol: cryLTCCZK
-cryLTCEGP:
+  submarket: minor_pairs
+  symbol: frxLTCCZK
+frxLTCEGP:
   asset: LTC
   display_name: LTC/EGP
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: EGP
-  submarket: non_stable_coin
-  symbol: cryLTCEGP
-cryLTCEUR:
+  submarket: minor_pairs
+  symbol: frxLTCEGP
+frxLTCEUR:
   asset: LTC
   display_name: LTC/EUR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: EUR
-  submarket: non_stable_coin
-  symbol: cryLTCEUR
-cryLTCGBP:
+  submarket: minor_pairs
+  symbol: frxLTCEUR
+frxLTCGBP:
   asset: LTC
   display_name: LTC/GBP
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: GBP
-  submarket: non_stable_coin
-  symbol: cryLTCGBP
-cryLTCHKD:
+  submarket: minor_pairs
+  symbol: frxLTCGBP
+frxLTCHKD:
   asset: LTC
   display_name: LTC/HKD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: HKD
-  submarket: non_stable_coin
-  symbol: cryLTCHKD
-cryLTCIDR:
+  submarket: minor_pairs
+  symbol: frxLTCHKD
+frxLTCIDR:
   asset: LTC
   display_name: LTC/IDR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: IDR
-  submarket: non_stable_coin
-  symbol: cryLTCIDR
-cryLTCINR:
+  submarket: minor_pairs
+  symbol: frxLTCIDR
+frxLTCINR:
   asset: LTC
   display_name: LTC/INR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: INR
-  submarket: non_stable_coin
-  symbol: cryLTCINR
-cryLTCJPY:
+  submarket: minor_pairs
+  symbol: frxLTCINR
+frxLTCJPY:
   asset: LTC
   display_name: LTC/JPY
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: JPY
-  submarket: non_stable_coin
-  symbol: cryLTCJPY
-cryLTCKRW:
+  submarket: minor_pairs
+  symbol: frxLTCJPY
+frxLTCKRW:
   asset: LTC
   display_name: LTC/KRW
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: KRW
-  submarket: non_stable_coin
-  symbol: cryLTCKRW
-cryLTCKWD:
+  submarket: minor_pairs
+  symbol: frxLTCKRW
+frxLTCKWD:
   asset: LTC
   display_name: LTC/KWD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: KWD
-  submarket: non_stable_coin
-  symbol: cryLTCKWD
-cryLTCMXN:
+  submarket: minor_pairs
+  symbol: frxLTCKWD
+frxLTCMXN:
   asset: LTC
   display_name: LTC/MXN
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: MXN
-  submarket: non_stable_coin
-  symbol: cryLTCMXN
-cryLTCNOK:
+  submarket: minor_pairs
+  symbol: frxLTCMXN
+frxLTCNOK:
   asset: LTC
   display_name: LTC/NOK
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: NOK
-  submarket: non_stable_coin
-  symbol: cryLTCNOK
-cryLTCNZD:
+  submarket: minor_pairs
+  symbol: frxLTCNOK
+frxLTCNZD:
   asset: LTC
   display_name: LTC/NZD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: NZD
-  submarket: non_stable_coin
-  symbol: cryLTCNZD
-cryLTCPLN:
+  submarket: minor_pairs
+  symbol: frxLTCNZD
+frxLTCPLN:
   asset: LTC
   display_name: LTC/PLN
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: PLN
-  submarket: non_stable_coin
-  symbol: cryLTCPLN
-cryLTCRUB:
+  submarket: minor_pairs
+  symbol: frxLTCPLN
+frxLTCRUB:
   asset: LTC
   display_name: LTC/RUB
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: RUB
-  submarket: non_stable_coin
-  symbol: cryLTCRUB
-cryLTCSAR:
+  submarket: minor_pairs
+  symbol: frxLTCRUB
+frxLTCSAR:
   asset: LTC
   display_name: LTC/SAR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: SAR
-  submarket: non_stable_coin
-  symbol: cryLTCSAR
-cryLTCSEK:
+  submarket: minor_pairs
+  symbol: frxLTCSAR
+frxLTCSEK:
   asset: LTC
   display_name: LTC/SEK
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: SEK
-  submarket: non_stable_coin
-  symbol: cryLTCSEK
-cryLTCSGD:
+  submarket: minor_pairs
+  symbol: frxLTCSEK
+frxLTCSGD:
   asset: LTC
   display_name: LTC/SGD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: SGD
-  submarket: non_stable_coin
-  symbol: cryLTCSGD
-cryLTCTRY:
+  submarket: minor_pairs
+  symbol: frxLTCSGD
+frxLTCTRY:
   asset: LTC
   display_name: LTC/TRY
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: TRY
-  submarket: non_stable_coin
-  symbol: cryLTCTRY
-cryLTCUSD:
+  submarket: minor_pairs
+  symbol: frxLTCTRY
+frxLTCUSD:
   asset: LTC
   display_name: LTC/USD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: USD
-  submarket: non_stable_coin
-  symbol: cryLTCUSD
-cryLTCXAG:
+  submarket: minor_pairs
+  symbol: frxLTCUSD
+frxLTCXAG:
   asset: LTC
   display_name: LTC/XAG
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: XAG
-  submarket: non_stable_coin
-  symbol: cryLTCXAG
-cryLTCXAU:
+  submarket: minor_pairs
+  symbol: frxLTCXAG
+frxLTCXAU:
   asset: LTC
   display_name: LTC/XAU
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: XAU
-  submarket: non_stable_coin
-  symbol: cryLTCXAU
-cryLTCZAR:
+  submarket: minor_pairs
+  symbol: frxLTCXAU
+frxLTCZAR:
   asset: LTC
   display_name: LTC/ZAR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: ZAR
-  submarket: non_stable_coin
-  symbol: cryLTCZAR
-cryBCHBRO:
+  submarket: minor_pairs
+  symbol: frxLTCZAR
+frxBCHBRO:
   asset: BCH
   display_name: BCH/BRO
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: BRO
-  submarket: non_stable_coin
-  symbol: cryBCHBRO
-cryBCHXPD:
+  submarket: minor_pairs
+  symbol: frxBCHBRO
+frxBCHXPD:
   asset: BCH
   display_name: BCH/XPD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: XPD
-  submarket: non_stable_coin
-  symbol: cryBCHXPD
-cryBCHXPT:
+  submarket: minor_pairs
+  symbol: frxBCHXPD
+frxBCHXPT:
   asset: BCH
   display_name: BCH/XPT
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: XPT
-  submarket: non_stable_coin
-  symbol: cryBCHXPT
-cryBTCBRO:
+  submarket: minor_pairs
+  symbol: frxBCHXPT
+frxBTCBRO:
   asset: BTC
   display_name: BTC/BRO
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: BRO
-  submarket: non_stable_coin
-  symbol: cryBTCBRO
-cryBTCXPD:
+  submarket: minor_pairs
+  symbol: frxBTCBRO
+frxBTCXPD:
   asset: BTC
   display_name: BTC/XPD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: XPD
-  submarket: non_stable_coin
-  symbol: cryBTCXPD
-cryBTCXPT:
+  submarket: minor_pairs
+  symbol: frxBTCXPD
+frxBTCXPT:
   asset: BTC
   display_name: BTC/XPT
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: XPT
-  submarket: non_stable_coin
-  symbol: cryBTCXPT
-cryETCBRO:
+  submarket: minor_pairs
+  symbol: frxBTCXPT
+frxETCBRO:
   asset: ETC
   display_name: ETC/BRO
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: BRO
-  submarket: non_stable_coin
-  symbol: cryETCBRO
-cryETCXPD:
+  submarket: minor_pairs
+  symbol: frxETCBRO
+frxETCXPD:
   asset: ETC
   display_name: ETC/XPD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: XPD
-  submarket: non_stable_coin
-  symbol: cryETCXPD
-cryETCXPT:
+  submarket: minor_pairs
+  symbol: frxETCXPD
+frxETCXPT:
   asset: ETC
   display_name: ETC/XPT
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: XPT
-  submarket: non_stable_coin
-  symbol: cryETCXPT
-cryETHBRO:
+  submarket: minor_pairs
+  symbol: frxETCXPT
+frxETHBRO:
   asset: ETH
   display_name: ETH/BRO
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: BRO
-  submarket: non_stable_coin
-  symbol: cryETHBRO
-cryETHXPD:
+  submarket: minor_pairs
+  symbol: frxETHBRO
+frxETHXPD:
   asset: ETH
   display_name: ETH/XPD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: XPD
-  submarket: non_stable_coin
-  symbol: cryETHXPD
-cryETHXPT:
+  submarket: minor_pairs
+  symbol: frxETHXPD
+frxETHXPT:
   asset: ETH
   display_name: ETH/XPT
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: XPT
-  submarket: non_stable_coin
-  symbol: cryETHXPT
-cryLTCBRO:
+  submarket: minor_pairs
+  symbol: frxETHXPT
+frxLTCBRO:
   asset: LTC
   display_name: LTC/BRO
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: BRO
-  submarket: non_stable_coin
-  symbol: cryLTCBRO
-cryLTCXPD:
+  submarket: minor_pairs
+  symbol: frxLTCBRO
+frxLTCXPD:
   asset: LTC
   display_name: LTC/XPD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: XPD
-  submarket: non_stable_coin
-  symbol: cryLTCXPD
-cryLTCXPT:
+  submarket: minor_pairs
+  symbol: frxLTCXPD
+frxLTCXPT:
   asset: LTC
   display_name: LTC/XPT
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.0001
   quoted_currency: XPT
-  submarket: non_stable_coin
-  symbol: cryLTCXPT
-cryDAIAED:
+  submarket: minor_pairs
+  symbol: frxLTCXPT
+frxDAIAED:
   asset: DAI
   display_name: DAI/AED
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: AED
-  submarket: stable_coin
-  symbol: cryDAIAED
-cryDAIAUD:
+  submarket: minor_pairs
+  symbol: frxDAIAED
+frxDAIAUD:
   asset: DAI
   display_name: DAI/AUD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: AUD
-  submarket: stable_coin
-  symbol: cryDAIAUD
-cryDAIBRL:
+  submarket: minor_pairs
+  symbol: frxDAIAUD
+frxDAIBRL:
   asset: DAI
   display_name: DAI/BRL
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: BRL
-  submarket: stable_coin
-  symbol: cryDAIBRL
-cryDAICAD:
+  submarket: minor_pairs
+  symbol: frxDAIBRL
+frxDAICAD:
   asset: DAI
   display_name: DAI/CAD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: CAD
-  submarket: stable_coin
-  symbol: cryDAICAD
-cryDAICHF:
+  submarket: minor_pairs
+  symbol: frxDAICAD
+frxDAICHF:
   asset: DAI
   display_name: DAI/CHF
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: CHF
-  submarket: stable_coin
-  symbol: cryDAICHF
-cryDAICNY:
+  submarket: minor_pairs
+  symbol: frxDAICHF
+frxDAICNY:
   asset: DAI
   display_name: DAI/CNY
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: CNY
-  submarket: stable_coin
-  symbol: cryDAICNY
-cryDAICZK:
+  submarket: minor_pairs
+  symbol: frxDAICNY
+frxDAICZK:
   asset: DAI
   display_name: DAI/CZK
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: CZK
-  submarket: stable_coin
-  symbol: cryDAICZK
-cryDAIEGP:
+  submarket: minor_pairs
+  symbol: frxDAICZK
+frxDAIEGP:
   asset: DAI
   display_name: DAI/EGP
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: EGP
-  submarket: stable_coin
-  symbol: cryDAIEGP
-cryDAIEUR:
+  submarket: minor_pairs
+  symbol: frxDAIEGP
+frxDAIEUR:
   asset: DAI
   display_name: DAI/EUR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: EUR
-  submarket: stable_coin
-  symbol: cryDAIEUR
-cryDAIGBP:
+  submarket: minor_pairs
+  symbol: frxDAIEUR
+frxDAIGBP:
   asset: DAI
   display_name: DAI/GBP
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: GBP
-  submarket: stable_coin
-  symbol: cryDAIGBP
-cryDAIHKD:
+  submarket: minor_pairs
+  symbol: frxDAIGBP
+frxDAIHKD:
   asset: DAI
   display_name: DAI/HKD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: HKD
-  submarket: stable_coin
-  symbol: cryDAIHKD
-cryDAIIDR:
+  submarket: minor_pairs
+  symbol: frxDAIHKD
+frxDAIIDR:
   asset: DAI
   display_name: DAI/IDR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: IDR
-  submarket: stable_coin
-  symbol: cryDAIIDR
-cryDAIINR:
+  submarket: minor_pairs
+  symbol: frxDAIIDR
+frxDAIINR:
   asset: DAI
   display_name: DAI/INR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: INR
-  submarket: stable_coin
-  symbol: cryDAIINR
-cryDAIJPY:
+  submarket: minor_pairs
+  symbol: frxDAIINR
+frxDAIJPY:
   asset: DAI
   display_name: DAI/JPY
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: JPY
-  submarket: stable_coin
-  symbol: cryDAIJPY
-cryDAIKRW:
+  submarket: minor_pairs
+  symbol: frxDAIJPY
+frxDAIKRW:
   asset: DAI
   display_name: DAI/KRW
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: KRW
-  submarket: stable_coin
-  symbol: cryDAIKRW
-cryDAIKWD:
+  submarket: minor_pairs
+  symbol: frxDAIKRW
+frxDAIKWD:
   asset: DAI
   display_name: DAI/KWD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: KWD
-  submarket: stable_coin
-  symbol: cryDAIKWD
-cryDAIMXN:
+  submarket: minor_pairs
+  symbol: frxDAIKWD
+frxDAIMXN:
   asset: DAI
   display_name: DAI/MXN
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: MXN
-  submarket: stable_coin
-  symbol: cryDAIMXN
-cryDAINOK:
+  submarket: minor_pairs
+  symbol: frxDAIMXN
+frxDAINOK:
   asset: DAI
   display_name: DAI/NOK
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: NOK
-  submarket: stable_coin
-  symbol: cryDAINOK
-cryDAINZD:
+  submarket: minor_pairs
+  symbol: frxDAINOK
+frxDAINZD:
   asset: DAI
   display_name: DAI/NZD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: NZD
-  submarket: stable_coin
-  symbol: cryDAINZD
-cryDAIPLN:
+  submarket: minor_pairs
+  symbol: frxDAINZD
+frxDAIPLN:
   asset: DAI
   display_name: DAI/PLN
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: PLN
-  submarket: stable_coin
-  symbol: cryDAIPLN
-cryDAIRUB:
+  submarket: minor_pairs
+  symbol: frxDAIPLN
+frxDAIRUB:
   asset: DAI
   display_name: DAI/RUB
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: RUB
-  submarket: stable_coin
-  symbol: cryDAIRUB
-cryDAISAR:
+  submarket: minor_pairs
+  symbol: frxDAIRUB
+frxDAISAR:
   asset: DAI
   display_name: DAI/SAR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: SAR
-  submarket: stable_coin
-  symbol: cryDAISAR
-cryDAISEK:
+  submarket: minor_pairs
+  symbol: frxDAISAR
+frxDAISEK:
   asset: DAI
   display_name: DAI/SEK
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: SEK
-  submarket: stable_coin
-  symbol: cryDAISEK
-cryDAISGD:
+  submarket: minor_pairs
+  symbol: frxDAISEK
+frxDAISGD:
   asset: DAI
   display_name: DAI/SGD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: SGD
-  submarket: stable_coin
-  symbol: cryDAISGD
-cryDAITRY:
+  submarket: minor_pairs
+  symbol: frxDAISGD
+frxDAITRY:
   asset: DAI
   display_name: DAI/TRY
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: TRY
-  submarket: stable_coin
-  symbol: cryDAITRY
-cryDAIUSD:
+  submarket: minor_pairs
+  symbol: frxDAITRY
+frxDAIUSD:
   asset: DAI
   display_name: DAI/USD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: USD
-  submarket: stable_coin
-  symbol: cryDAIUSD
-cryDAIXAG:
+  submarket: minor_pairs
+  symbol: frxDAIUSD
+frxDAIXAG:
   asset: DAI
   display_name: DAI/XAG
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: XAG
-  submarket: stable_coin
-  symbol: cryDAIXAG
-cryDAIXAU:
+  submarket: minor_pairs
+  symbol: frxDAIXAG
+frxDAIXAU:
   asset: DAI
   display_name: DAI/XAU
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: XAU
-  submarket: stable_coin
-  symbol: cryDAIXAU
-cryDAIZAR:
+  submarket: minor_pairs
+  symbol: frxDAIXAU
+frxDAIZAR:
   asset: DAI
   display_name: DAI/ZAR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: ZAR
-  submarket: stable_coin
-  symbol: cryDAIZAR
-cryDAIBRO:
+  submarket: minor_pairs
+  symbol: frxDAIZAR
+frxDAIBRO:
   asset: DAI
   display_name: DAI/BRO
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: BRO
-  submarket: stable_coin
-  symbol: cryDAIBRO
-cryDAIXPD:
+  submarket: minor_pairs
+  symbol: frxDAIBRO
+frxDAIXPD:
   asset: DAI
   display_name: DAI/XPD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: XPD
-  submarket: stable_coin
-  symbol: cryDAIXPD
-cryDAIXPT:
+  submarket: minor_pairs
+  symbol: frxDAIXPD
+frxDAIXPT:
   asset: DAI
   display_name: DAI/XPT
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: XPT
-  submarket: stable_coin
-  symbol: cryDAIXPT
-cryUSTAED:
+  submarket: minor_pairs
+  symbol: frxDAIXPT
+frxUSTAED:
   asset: UST
   display_name: UST/AED
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: AED
-  submarket: stable_coin
-  symbol: cryUSTAED
-cryUSTAUD:
+  submarket: minor_pairs
+  symbol: frxUSTAED
+frxUSTAUD:
   asset: UST
   display_name: UST/AUD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: AUD
-  submarket: stable_coin
-  symbol: cryUSTAUD
-cryUSTBRL:
+  submarket: minor_pairs
+  symbol: frxUSTAUD
+frxUSTBRL:
   asset: UST
   display_name: UST/BRL
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: BRL
-  submarket: stable_coin
-  symbol: cryUSTBRL
-cryUSTCAD:
+  submarket: minor_pairs
+  symbol: frxUSTBRL
+frxUSTCAD:
   asset: UST
   display_name: UST/CAD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: CAD
-  submarket: stable_coin
-  symbol: cryUSTCAD
-cryUSTCHF:
+  submarket: minor_pairs
+  symbol: frxUSTCAD
+frxUSTCHF:
   asset: UST
   display_name: UST/CHF
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: CHF
-  submarket: stable_coin
-  symbol: cryUSTCHF
-cryUSTCNY:
+  submarket: minor_pairs
+  symbol: frxUSTCHF
+frxUSTCNY:
   asset: UST
   display_name: UST/CNY
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: CNY
-  submarket: stable_coin
-  symbol: cryUSTCNY
-cryUSTCZK:
+  submarket: minor_pairs
+  symbol: frxUSTCNY
+frxUSTCZK:
   asset: UST
   display_name: UST/CZK
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: CZK
-  submarket: stable_coin
-  symbol: cryUSTCZK
-cryUSTEGP:
+  submarket: minor_pairs
+  symbol: frxUSTCZK
+frxUSTEGP:
   asset: UST
   display_name: UST/EGP
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: EGP
-  submarket: stable_coin
-  symbol: cryUSTEGP
-cryUSTEUR:
+  submarket: minor_pairs
+  symbol: frxUSTEGP
+frxUSTEUR:
   asset: UST
   display_name: UST/EUR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: EUR
-  submarket: stable_coin
-  symbol: cryUSTEUR
-cryUSTGBP:
+  submarket: minor_pairs
+  symbol: frxUSTEUR
+frxUSTGBP:
   asset: UST
   display_name: UST/GBP
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: GBP
-  submarket: stable_coin
-  symbol: cryUSTGBP
-cryUSTHKD:
+  submarket: minor_pairs
+  symbol: frxUSTGBP
+frxUSTHKD:
   asset: UST
   display_name: UST/HKD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: HKD
-  submarket: stable_coin
-  symbol: cryUSTHKD
-cryUSTIDR:
+  submarket: minor_pairs
+  symbol: frxUSTHKD
+frxUSTIDR:
   asset: UST
   display_name: UST/IDR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: IDR
-  submarket: stable_coin
-  symbol: cryUSTIDR
-cryUSTINR:
+  submarket: minor_pairs
+  symbol: frxUSTIDR
+frxUSTINR:
   asset: UST
   display_name: UST/INR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: INR
-  submarket: stable_coin
-  symbol: cryUSTINR
-cryUSTJPY:
+  submarket: minor_pairs
+  symbol: frxUSTINR
+frxUSTJPY:
   asset: UST
   display_name: UST/JPY
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: JPY
-  submarket: stable_coin
-  symbol: cryUSTJPY
-cryUSTKRW:
+  submarket: minor_pairs
+  symbol: frxUSTJPY
+frxUSTKRW:
   asset: UST
   display_name: UST/KRW
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: KRW
-  submarket: stable_coin
-  symbol: cryUSTKRW
-cryUSTKWD:
+  submarket: minor_pairs
+  symbol: frxUSTKRW
+frxUSTKWD:
   asset: UST
   display_name: UST/KWD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: KWD
-  submarket: stable_coin
-  symbol: cryUSTKWD
-cryUSTMXN:
+  submarket: minor_pairs
+  symbol: frxUSTKWD
+frxUSTMXN:
   asset: UST
   display_name: UST/MXN
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: MXN
-  submarket: stable_coin
-  symbol: cryUSTMXN
-cryUSTNOK:
+  submarket: minor_pairs
+  symbol: frxUSTMXN
+frxUSTNOK:
   asset: UST
   display_name: UST/NOK
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: NOK
-  submarket: stable_coin
-  symbol: cryUSTNOK
-cryUSTNZD:
+  submarket: minor_pairs
+  symbol: frxUSTNOK
+frxUSTNZD:
   asset: UST
   display_name: UST/NZD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: NZD
-  submarket: stable_coin
-  symbol: cryUSTNZD
-cryUSTPLN:
+  submarket: minor_pairs
+  symbol: frxUSTNZD
+frxUSTPLN:
   asset: UST
   display_name: UST/PLN
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: PLN
-  submarket: stable_coin
-  symbol: cryUSTPLN
-cryUSTRUB:
+  submarket: minor_pairs
+  symbol: frxUSTPLN
+frxUSTRUB:
   asset: UST
   display_name: UST/RUB
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: RUB
-  submarket: stable_coin
-  symbol: cryUSTRUB
-cryUSTSAR:
+  submarket: minor_pairs
+  symbol: frxUSTRUB
+frxUSTSAR:
   asset: UST
   display_name: UST/SAR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: SAR
-  submarket: stable_coin
-  symbol: cryUSTSAR
-cryUSTSEK:
+  submarket: minor_pairs
+  symbol: frxUSTSAR
+frxUSTSEK:
   asset: UST
   display_name: UST/SEK
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: SEK
-  submarket: stable_coin
-  symbol: cryUSTSEK
-cryUSTSGD:
+  submarket: minor_pairs
+  symbol: frxUSTSEK
+frxUSTSGD:
   asset: UST
   display_name: UST/SGD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: SGD
-  submarket: stable_coin
-  symbol: cryUSTSGD
-cryUSTTRY:
+  submarket: minor_pairs
+  symbol: frxUSTSGD
+frxUSTTRY:
   asset: UST
   display_name: UST/TRY
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: TRY
-  submarket: stable_coin
-  symbol: cryUSTTRY
-cryUSTUSD:
+  submarket: minor_pairs
+  symbol: frxUSTTRY
+frxUSTUSD:
   asset: UST
   display_name: UST/USD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: USD
-  submarket: stable_coin
-  symbol: cryUSTUSD
-cryUSTXAG:
+  submarket: minor_pairs
+  symbol: frxUSTUSD
+frxUSTXAG:
   asset: UST
   display_name: UST/XAG
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: XAG
-  submarket: stable_coin
-  symbol: cryUSTXAG
-cryUSTXAU:
+  submarket: minor_pairs
+  symbol: frxUSTXAG
+frxUSTXAU:
   asset: UST
   display_name: UST/XAU
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: XAU
-  submarket: stable_coin
-  symbol: cryUSTXAU
-cryUSTZAR:
+  submarket: minor_pairs
+  symbol: frxUSTXAU
+frxUSTZAR:
   asset: UST
   display_name: UST/ZAR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: ZAR
-  submarket: stable_coin
-  symbol: cryUSTZAR
-cryUSTBRO:
+  submarket: minor_pairs
+  symbol: frxUSTZAR
+frxUSTBRO:
   asset: UST
   display_name: UST/BRO
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: BRO
-  submarket: stable_coin
-  symbol: cryUSTBRO
-cryUSTXPD:
+  submarket: minor_pairs
+  symbol: frxUSTBRO
+frxUSTXPD:
   asset: UST
   display_name: UST/XPD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: XPD
-  submarket: stable_coin
-  symbol: cryUSTXPD
-cryUSTXPT:
+  submarket: minor_pairs
+  symbol: frxUSTXPD
+frxUSTXPT:
   asset: UST
   display_name: UST/XPT
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: XPT
-  submarket: stable_coin
-  symbol: cryUSTXPT
-cryUSBAED:
+  submarket: minor_pairs
+  symbol: frxUSTXPT
+frxUSBAED:
   asset: USB
   display_name: USB/AED
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: AED
-  submarket: stable_coin
-  symbol: cryUSBAED
-cryUSBAUD:
+  submarket: minor_pairs
+  symbol: frxUSBAED
+frxUSBAUD:
   asset: USB
   display_name: USB/AUD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: AUD
-  submarket: stable_coin
-  symbol: cryUSBAUD
-cryUSBBRL:
+  submarket: minor_pairs
+  symbol: frxUSBAUD
+frxUSBBRL:
   asset: USB
   display_name: USB/BRL
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: BRL
-  submarket: stable_coin
-  symbol: cryUSBBRL
-cryUSBCAD:
+  submarket: minor_pairs
+  symbol: frxUSBBRL
+frxUSBCAD:
   asset: USB
   display_name: USB/CAD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: CAD
-  submarket: stable_coin
-  symbol: cryUSBCAD
-cryUSBCHF:
+  submarket: minor_pairs
+  symbol: frxUSBCAD
+frxUSBCHF:
   asset: USB
   display_name: USB/CHF
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: CHF
-  submarket: stable_coin
-  symbol: cryUSBCHF
-cryUSBCNY:
+  submarket: minor_pairs
+  symbol: frxUSBCHF
+frxUSBCNY:
   asset: USB
   display_name: USB/CNY
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: CNY
-  submarket: stable_coin
-  symbol: cryUSBCNY
-cryUSBCZK:
+  submarket: minor_pairs
+  symbol: frxUSBCNY
+frxUSBCZK:
   asset: USB
   display_name: USB/CZK
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: CZK
-  submarket: stable_coin
-  symbol: cryUSBCZK
-cryUSBEGP:
+  submarket: minor_pairs
+  symbol: frxUSBCZK
+frxUSBEGP:
   asset: USB
   display_name: USB/EGP
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: EGP
-  submarket: stable_coin
-  symbol: cryUSBEGP
-cryUSBEUR:
+  submarket: minor_pairs
+  symbol: frxUSBEGP
+frxUSBEUR:
   asset: USB
   display_name: USB/EUR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: EUR
-  submarket: stable_coin
-  symbol: cryUSBEUR
-cryUSBGBP:
+  submarket: minor_pairs
+  symbol: frxUSBEUR
+frxUSBGBP:
   asset: USB
   display_name: USB/GBP
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: GBP
-  submarket: stable_coin
-  symbol: cryUSBGBP
-cryUSBHKD:
+  submarket: minor_pairs
+  symbol: frxUSBGBP
+frxUSBHKD:
   asset: USB
   display_name: USB/HKD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: HKD
-  submarket: stable_coin
-  symbol: cryUSBHKD
-cryUSBIDR:
+  submarket: minor_pairs
+  symbol: frxUSBHKD
+frxUSBIDR:
   asset: USB
   display_name: USB/IDR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: IDR
-  submarket: stable_coin
-  symbol: cryUSBIDR
-cryUSBINR:
+  submarket: minor_pairs
+  symbol: frxUSBIDR
+frxUSBINR:
   asset: USB
   display_name: USB/INR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: INR
-  submarket: stable_coin
-  symbol: cryUSBINR
-cryUSBJPY:
+  submarket: minor_pairs
+  symbol: frxUSBINR
+frxUSBJPY:
   asset: USB
   display_name: USB/JPY
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: JPY
-  submarket: stable_coin
-  symbol: cryUSBJPY
-cryUSBKRW:
+  submarket: minor_pairs
+  symbol: frxUSBJPY
+frxUSBKRW:
   asset: USB
   display_name: USB/KRW
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: KRW
-  submarket: stable_coin
-  symbol: cryUSBKRW
-cryUSBKWD:
+  submarket: minor_pairs
+  symbol: frxUSBKRW
+frxUSBKWD:
   asset: USB
   display_name: USB/KWD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: KWD
-  submarket: stable_coin
-  symbol: cryUSBKWD
-cryUSBMXN:
+  submarket: minor_pairs
+  symbol: frxUSBKWD
+frxUSBMXN:
   asset: USB
   display_name: USB/MXN
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: MXN
-  submarket: stable_coin
-  symbol: cryUSBMXN
-cryUSBNOK:
+  submarket: minor_pairs
+  symbol: frxUSBMXN
+frxUSBNOK:
   asset: USB
   display_name: USB/NOK
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: NOK
-  submarket: stable_coin
-  symbol: cryUSBNOK
-cryUSBNZD:
+  submarket: minor_pairs
+  symbol: frxUSBNOK
+frxUSBNZD:
   asset: USB
   display_name: USB/NZD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: NZD
-  submarket: stable_coin
-  symbol: cryUSBNZD
-cryUSBPLN:
+  submarket: minor_pairs
+  symbol: frxUSBNZD
+frxUSBPLN:
   asset: USB
   display_name: USB/PLN
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: PLN
-  submarket: stable_coin
-  symbol: cryUSBPLN
-cryUSBRUB:
+  submarket: minor_pairs
+  symbol: frxUSBPLN
+frxUSBRUB:
   asset: USB
   display_name: USB/RUB
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: RUB
-  submarket: stable_coin
-  symbol: cryUSBRUB
-cryUSBSAR:
+  submarket: minor_pairs
+  symbol: frxUSBRUB
+frxUSBSAR:
   asset: USB
   display_name: USB/SAR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: SAR
-  submarket: stable_coin
-  symbol: cryUSBSAR
-cryUSBSEK:
+  submarket: minor_pairs
+  symbol: frxUSBSAR
+frxUSBSEK:
   asset: USB
   display_name: USB/SEK
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: SEK
-  submarket: stable_coin
-  symbol: cryUSBSEK
-cryUSBSGD:
+  submarket: minor_pairs
+  symbol: frxUSBSEK
+frxUSBSGD:
   asset: USB
   display_name: USB/SGD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: SGD
-  submarket: stable_coin
-  symbol: cryUSBSGD
-cryUSBTRY:
+  submarket: minor_pairs
+  symbol: frxUSBSGD
+frxUSBTRY:
   asset: USB
   display_name: USB/TRY
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: TRY
-  submarket: stable_coin
-  symbol: cryUSBTRY
-cryUSBUSD:
+  submarket: minor_pairs
+  symbol: frxUSBTRY
+frxUSBUSD:
   asset: USB
   display_name: USB/USD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: USD
-  submarket: stable_coin
-  symbol: cryUSBUSD
-cryUSBXAG:
+  submarket: minor_pairs
+  symbol: frxUSBUSD
+frxUSBXAG:
   asset: USB
   display_name: USB/XAG
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: XAG
-  submarket: stable_coin
-  symbol: cryUSBXAG
-cryUSBXAU:
+  submarket: minor_pairs
+  symbol: frxUSBXAG
+frxUSBXAU:
   asset: USB
   display_name: USB/XAU
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: XAU
-  submarket: stable_coin
-  symbol: cryUSBXAU
-cryUSBZAR:
+  submarket: minor_pairs
+  symbol: frxUSBXAU
+frxUSBZAR:
   asset: USB
   display_name: USB/ZAR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: ZAR
-  submarket: stable_coin
-  symbol: cryUSBZAR
-cryUSBBRO:
+  submarket: minor_pairs
+  symbol: frxUSBZAR
+frxUSBBRO:
   asset: USB
   display_name: USB/BRO
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: BRO
-  submarket: stable_coin
-  symbol: cryUSBBRO
-cryUSBXPD:
+  submarket: minor_pairs
+  symbol: frxUSBBRO
+frxUSBXPD:
   asset: USB
   display_name: USB/XPD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: XPD
-  submarket: stable_coin
-  symbol: cryUSBXPD
-cryUSBXPT:
+  submarket: minor_pairs
+  symbol: frxUSBXPD
+frxUSBXPT:
   asset: USB
   display_name: USB/XPT
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
+  exchange_name: FOREX
+  instrument_type: forex
+  market: forex
   pip_size: 0.01
   quoted_currency: XPT
-  submarket: stable_coin
-  symbol: cryUSBXPT
+  submarket: minor_pairs
+  symbol: frxUSBXPT
