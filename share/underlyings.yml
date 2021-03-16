@@ -202,7 +202,7 @@ BSESENSEX30:
 CL_BRENT:
   asset: CL_BRENT
   display_name: Brent Crude Oil
-  exchange_name: nothing
+  exchange_name: BRENT_OTC
   instrument_type: commodities
   market: commodities
   market_conversion:
@@ -1852,7 +1852,7 @@ WLDXAU:
 WTI_OIL:
   asset: WTI_OIL
   display_name: WTI Crude Oil
-  exchange_name: nothing
+  exchange_name: OIL_OTC
   instrument_type: commodities
   market_convention:
     atm_setting: atm_delta_neutral_straddle
