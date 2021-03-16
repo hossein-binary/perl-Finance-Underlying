@@ -214,7 +214,7 @@ CL_BRENT:
   pip_size: 0.01
   quoted_currency: USD
   submarket: energy
-  symbol: C_BRENT
+  symbol: CL_BRENT
 CRASH1000:
   asset: CRASH1000
   display_name: Crash 1000 Index
@@ -1863,7 +1863,7 @@ WTI_OIL:
   pip_size: 0.01
   quoted_currency: USD
   submarket: energy
-  symbol: WTI_OLD
+  symbol: WTI_OIL
 cryBCHUSD:
   asset: BCH
   display_name: BCH/USD
