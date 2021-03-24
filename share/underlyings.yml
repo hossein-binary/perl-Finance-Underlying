@@ -1810,19 +1810,19 @@ WLDGBP:
   quoted_currency: WLDGBP
   submarket: smart_fx
   symbol: WLDGBP
-WLDGold:
+WLDGOLD:
   asset: G
   display_name: G Index
   exchange_name: FOREX
   instrument_type: smart_fx
-  market: forex
+  market: commodities
   market_convention:
     delta_premium_adjusted: 0
     delta_style: spot_delta
   pip_size: 0.001
-  quoted_currency: WLDGold
+  quoted_currency: WLDGOLD
   submarket: smart_fx
-  symbol: WLDGold
+  symbol: WLDGOLD
 WLDUSD:
   asset: USD
   display_name: USD Index
@@ -1854,6 +1854,7 @@ WTI_OIL:
   display_name: WTI Crude Oil
   exchange_name: OIL_OTC
   instrument_type: commodities
+  market: commodities
   market_convention:
     atm_setting: atm_delta_neutral_straddle
     bf: 2_vol
