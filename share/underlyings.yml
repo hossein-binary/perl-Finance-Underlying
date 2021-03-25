@@ -1295,7 +1295,7 @@ USC:
   display_name: Citigroup Inc
   exchange_name: NYSE
   instrument_type: individualstock
-  market: stock
+  market: stocks
   market_convention:
     delta_premium_adjusted: 0
     delta_style: spot_delta
