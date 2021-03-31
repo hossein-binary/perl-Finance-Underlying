@@ -1878,7 +1878,7 @@ cryBCHUSD:
 cryBCHUSDmf:
   asset: BCH
   display_name: BCH/USD
-  exchange_name: CRPTOCURRENCY
+  exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurreny
   market: cryptocurrency
   pip_size: 0.0001
@@ -2018,7 +2018,7 @@ cryBTCUSD:
 cryBTCUSDmf:
   asset: BTC
   display_name: BTC/USD
-  exchange_name: CRPTOCURRENCY
+  exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurreny
   market: cryptocurrency
   pip_size: 0.0001
@@ -2088,7 +2088,7 @@ cryDSHUSD:
 cryDSHUSDmf:
   asset: DSH
   display_name: DSH/USD
-  exchange_name: CRPTOCURRENCY
+  exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurreny
   market: cryptocurrency
   pip_size: 0.0001
@@ -2098,7 +2098,7 @@ cryDSHUSDmf:
 cryEOSUSD:
   asset: EOS
   display_name: EOS/USD
-  exchange_name: CRPTOCURRENCY
+  exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurreny
   market: cryptocurrency
   pip_size: 0.0001
@@ -2108,7 +2108,7 @@ cryEOSUSD:
 cryEOSUSDmf:
   asset: EOS
   display_name: EOS/USD
-  exchange_name: CRPTOCURRENCY
+  exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurreny
   market: cryptocurrency
   pip_size: 0.0001
@@ -2138,7 +2138,7 @@ cryETHUSD:
 cryETHUSDmf:
   asset: ETH
   display_name: ETH/USD
-  exchange_name: CRPTOCURRENCY
+  exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurreny
   market: cryptocurrency
   pip_size: 0.0001
@@ -2198,7 +2198,7 @@ cryLTCUSD:
 cryLTCUSDmf:
   asset: LTC
   display_name: LTC/USD
-  exchange_name: CRPTOCURRENCY
+  exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurreny
   market: cryptocurrency
   pip_size: 0.0001
@@ -2288,7 +2288,7 @@ cryUSTUSD:
 cryXLMUSD:
   asset: XLM
   display_name: XLM/USD
-  exchange_name: CRPTOCURRENCY
+  exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurreny
   market: cryptocurrency
   pip_size: 0.0001
@@ -2328,7 +2328,7 @@ cryXRPEUR:
 cryXRPUSD:
   asset: XRP
   display_name: XRP/USD
-  exchange_name: CRPTOCURRENCY
+  exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurreny
   market: cryptocurrency
   pip_size: 0.0001
@@ -2338,7 +2338,7 @@ cryXRPUSD:
 cryXRPUSDmf:
   asset: XRP
   display_name: XRP/USD
-  exchange_name: CRPTOCURRENCY
+  exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurreny
   market: cryptocurrency
   pip_size: 0.0001
